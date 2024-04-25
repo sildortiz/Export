@@ -5764,12 +5764,6 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1.0,
-          0.942446053,
-          0.942446053,
-          1.0
-        ],
         "metallicFactor": 0.8,
         "roughnessFactor": 0.3
       },
@@ -5870,7 +5864,7 @@
           1.0
         ],
         "metallicFactor": 0.4,
-        "roughnessFactor": 0.5
+        "roughnessFactor": 0.45
       },
       "doubleSided": true,
       "name": "Material #1144",
