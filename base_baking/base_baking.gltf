@@ -5756,13 +5756,10 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 41
+          "index": 40
         },
-        "metallicFactor": 0.0
-      },
-      "normalTexture": {
-        "index": 40,
-        "scale": 0.3
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
       },
       "doubleSided": true,
       "name": "Material #3",
@@ -6009,12 +6006,7 @@
     {
       "sampler": 0,
       "source": 14,
-      "name": "american walnut_glos2.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 15,
-      "name": "american walnut_dif.jpg"
+      "name": "wood_spirit_albedo.jpg"
     }
   ],
   "images": [
@@ -6061,10 +6053,7 @@
       "uri": "stripes_albedo.jpg"
     },
     {
-      "uri": "american walnut_glos2.jpg"
-    },
-    {
-      "uri": "american walnut_dif.jpg"
+      "uri": "wood_spirit_albedo.jpg"
     }
   ],
   "samplers": [
