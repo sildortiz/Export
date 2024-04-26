@@ -3566,7 +3566,7 @@
       "bufferView": 0,
       "byteOffset": 149672,
       "componentType": 5123,
-      "count": 6594,
+      "count": 6462,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -3574,11 +3574,11 @@
       "bufferView": 1,
       "byteOffset": 612552,
       "componentType": 5126,
-      "count": 2567,
+      "count": 2511,
       "max": [
         1.0861094,
-        2.34459639,
-        2.62478328
+        2.33784437,
+        2.62371826
       ],
       "min": [
         -1.08610857,
@@ -3590,9 +3590,9 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 643356,
+      "byteOffset": 642684,
       "componentType": 5126,
-      "count": 2567,
+      "count": 2511,
       "type": "VEC3",
       "name": "accessorNormals"
     },
@@ -3600,7 +3600,7 @@
       "bufferView": 3,
       "byteOffset": 120304,
       "componentType": 5126,
-      "count": 2567,
+      "count": 2511,
       "type": "VEC4",
       "name": "accessorColors"
     },
@@ -3608,21 +3608,21 @@
       "bufferView": 2,
       "byteOffset": 408368,
       "componentType": 5126,
-      "count": 2567,
+      "count": 2511,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 428904,
+      "byteOffset": 428456,
       "componentType": 5126,
-      "count": 2567,
+      "count": 2511,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 162860,
+      "byteOffset": 162596,
       "componentType": 5123,
       "count": 564,
       "type": "SCALAR",
@@ -3630,7 +3630,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 674160,
+      "byteOffset": 672816,
       "componentType": 5126,
       "count": 283,
       "max": [
@@ -3648,7 +3648,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 677556,
+      "byteOffset": 676212,
       "componentType": 5126,
       "count": 283,
       "type": "VEC3",
@@ -3656,7 +3656,7 @@
     },
     {
       "bufferView": 3,
-      "byteOffset": 161376,
+      "byteOffset": 160480,
       "componentType": 5126,
       "count": 283,
       "type": "VEC4",
@@ -3664,7 +3664,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 449440,
+      "byteOffset": 448544,
       "componentType": 5126,
       "count": 283,
       "type": "VEC2",
@@ -3672,7 +3672,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 451704,
+      "byteOffset": 450808,
       "componentType": 5126,
       "count": 283,
       "type": "VEC2",
@@ -3680,24 +3680,24 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 163988,
+      "byteOffset": 163724,
       "componentType": 5123,
-      "count": 234,
+      "count": 366,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
     {
       "bufferView": 1,
-      "byteOffset": 680952,
+      "byteOffset": 679608,
       "componentType": 5126,
-      "count": 101,
+      "count": 157,
       "max": [
-        0.415770352,
-        1.24118364,
-        1.80920935
+        0.60309875,
+        2.34459639,
+        2.62478328
       ],
       "min": [
-        0.396062434,
+        -0.5969013,
         1.215848,
         1.78153229
       ],
@@ -3706,33 +3706,33 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 682164,
+      "byteOffset": 681492,
       "componentType": 5126,
-      "count": 101,
+      "count": 157,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 3,
-      "byteOffset": 165904,
+      "byteOffset": 165008,
       "componentType": 5126,
-      "count": 101,
+      "count": 157,
       "type": "VEC4",
       "name": "accessorColors"
     },
     {
       "bufferView": 2,
-      "byteOffset": 453968,
+      "byteOffset": 453072,
       "componentType": 5126,
-      "count": 101,
+      "count": 157,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 454776,
+      "byteOffset": 454328,
       "componentType": 5126,
-      "count": 101,
+      "count": 157,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
@@ -6562,12 +6562,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.74820143,
-          0.74820143,
-          0.74820143,
+          0.8980392,
+          0.8980392,
+          0.8980392,
           1.0
         ],
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
       },
       "doubleSided": true,
       "name": "Material #4324",
