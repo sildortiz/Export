@@ -6698,9 +6698,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.798561156,
-          0.7719425,
-          0.7719425,
+          0.56078434,
+          0.498039216,
+          0.498039216,
           1.0
         ],
         "metallicFactor": 0.0,
@@ -6800,9 +6800,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.661870539,
-          0.6190156,
-          0.6190156,
+          0.705036,
+          0.705036,
+          0.705036,
           1.0
         ],
         "metallicFactor": 0.55,
