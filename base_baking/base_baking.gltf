@@ -6801,9 +6801,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.762589931,
-          0.762589931,
-          0.762589931,
+          0.819607854,
+          0.819607854,
+          0.819607854,
           1.0
         ],
         "metallicFactor": 0.8,
@@ -7140,7 +7140,7 @@
     {
       "sampler": 0,
       "source": 21,
-      "name": "vm_v1_007_mesh_blend.jpg"
+      "name": "vm_v1_007_mesh_blend2.jpg"
     }
   ],
   "images": [
@@ -7208,7 +7208,7 @@
       "uri": "vm_v1_007_mesh_normal.jpg"
     },
     {
-      "uri": "vm_v1_007_mesh_blend.jpg"
+      "uri": "vm_v1_007_mesh_blend2.jpg"
     }
   ],
   "samplers": [
