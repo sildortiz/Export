@@ -6697,12 +6697,9 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.5,
-          0.5,
-          0.5,
-          1.0
-        ],
+        "baseColorTexture": {
+          "index": 46
+        },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.9
       },
@@ -6800,9 +6797,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7137255,
-          0.7137255,
-          0.7137255,
+          0.762589931,
+          0.762589931,
+          0.762589931,
           1.0
         ],
         "metallicFactor": 0.8,
@@ -7130,6 +7127,11 @@
       "sampler": 0,
       "source": 19,
       "name": "pc_apple_01.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 20,
+      "name": "vm_v1_007_mesh_blend.jpg"
     }
   ],
   "images": [
@@ -7192,6 +7194,9 @@
     },
     {
       "uri": "pc_apple_01.jpg"
+    },
+    {
+      "uri": "vm_v1_007_mesh_blend.jpg"
     }
   ],
   "samplers": [
