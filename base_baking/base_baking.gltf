@@ -5636,11 +5636,14 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 40
-        },
+        "baseColorFactor": [
+          0.66906476,
+          0.66906476,
+          0.66906476,
+          1.0
+        ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
+        "roughnessFactor": 0.8
       },
       "doubleSided": true,
       "name": "Material #9",
@@ -5685,7 +5688,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 41
+          "index": 40
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -5935,12 +5938,7 @@
     {
       "sampler": 0,
       "source": 14,
-      "name": "fabric_gris_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 15,
-      "name": "oak_natural_albedo.jpg"
+      "name": "wood_spirit_albedo2.jpg"
     }
   ],
   "images": [
@@ -5987,10 +5985,7 @@
       "uri": "stripes_albedo.jpg"
     },
     {
-      "uri": "fabric_gris_basecolor.jpg"
-    },
-    {
-      "uri": "oak_natural_albedo.jpg"
+      "uri": "wood_spirit_albedo2.jpg"
     }
   ],
   "samplers": [
