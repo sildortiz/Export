@@ -3338,7 +3338,7 @@
       "bufferView": 1,
       "byteOffset": 614016,
       "componentType": 5126,
-      "count": 2368,
+      "count": 2364,
       "max": [
         1.29398584,
         0.74,
@@ -3354,9 +3354,9 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 642432,
+      "byteOffset": 642384,
       "componentType": 5126,
-      "count": 2368,
+      "count": 2364,
       "type": "VEC3",
       "name": "accessorNormals"
     },
@@ -3364,15 +3364,15 @@
       "bufferView": 2,
       "byteOffset": 409344,
       "componentType": 5126,
-      "count": 2368,
+      "count": 2364,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 428288,
+      "byteOffset": 428256,
       "componentType": 5126,
-      "count": 2368,
+      "count": 2364,
       "type": "VEC2",
       "name": "accessorUV2s"
     }
@@ -3386,14 +3386,14 @@
     {
       "buffer": 0,
       "byteOffset": 152372,
-      "byteLength": 670848,
+      "byteLength": 670752,
       "byteStride": 12,
       "name": "bufferViewFloatVec3"
     },
     {
       "buffer": 0,
-      "byteOffset": 823220,
-      "byteLength": 447232,
+      "byteOffset": 823124,
+      "byteLength": 447168,
       "byteStride": 8,
       "name": "bufferViewFloatVec2"
     }
@@ -3401,7 +3401,7 @@
   "buffers": [
     {
       "uri": "base_baking.bin",
-      "byteLength": 1270452
+      "byteLength": 1270292
     }
   ],
   "materials": [
