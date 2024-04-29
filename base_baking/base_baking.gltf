@@ -823,22 +823,11 @@
     {
       "mesh": 26,
       "translation": [
-        0.814614952,
-        -0.346341223,
-        -1.87110829
+        0.5917759,
+        -0.694297433,
+        -1.20499825
       ],
-      "rotation": [
-        0.0,
-        0.7071068,
-        0.0,
-        0.7071067
-      ],
-      "scale": [
-        1.0,
-        1.58174324,
-        1.0
-      ],
-      "name": "furniture_CEO_lounge"
+      "name": "furniture_kitchen"
     }
   ],
   "meshes": [
@@ -1393,9 +1382,19 @@
           },
           "indices": 205,
           "material": 37
+        },
+        {
+          "attributes": {
+            "POSITION": 211,
+            "NORMAL": 212,
+            "TEXCOORD_0": 213,
+            "TEXCOORD_1": 214
+          },
+          "indices": 210,
+          "material": 38
         }
       ],
-      "name": "furniture_CEO_lounge"
+      "name": "furniture_kitchen"
     }
   ],
   "accessors": [
@@ -3300,7 +3299,7 @@
       "bufferView": 0,
       "byteOffset": 94532,
       "componentType": 5123,
-      "count": 25176,
+      "count": 2466,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -3308,25 +3307,25 @@
       "bufferView": 1,
       "byteOffset": 432096,
       "componentType": 5126,
-      "count": 6908,
+      "count": 823,
       "max": [
-        1.21463668,
-        0.167301685,
-        0.6230911
+        0.475894451,
+        2.02515173,
+        0.754392564
       ],
       "min": [
-        -1.2724669,
-        -0.121566355,
-        -0.6056787
+        -0.18169196,
+        -0.001565814,
+        -0.317316443
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 514992,
+      "byteOffset": 441972,
       "componentType": 5126,
-      "count": 6908,
+      "count": 823,
       "type": "VEC3",
       "name": "accessorNormals"
     },
@@ -3334,121 +3333,121 @@
       "bufferView": 2,
       "byteOffset": 288064,
       "componentType": 5126,
-      "count": 6908,
+      "count": 823,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 343328,
+      "byteOffset": 294648,
       "componentType": 5126,
-      "count": 6908,
+      "count": 823,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 144884,
+      "byteOffset": 99464,
       "componentType": 5123,
-      "count": 1614,
+      "count": 528,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
     {
       "bufferView": 1,
-      "byteOffset": 597888,
+      "byteOffset": 451848,
       "componentType": 5126,
-      "count": 651,
+      "count": 224,
       "max": [
-        1.1957593,
-        0.115335539,
-        0.6041806
+        0.377372533,
+        0.7,
+        0.025
       ],
       "min": [
-        -1.29582036,
-        -0.220000058,
-        -0.5859841
+        -0.025,
+        0.0,
+        -1.7815541
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 605700,
+      "byteOffset": 454536,
       "componentType": 5126,
-      "count": 651,
+      "count": 224,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 2,
-      "byteOffset": 398592,
+      "byteOffset": 301232,
       "componentType": 5126,
-      "count": 651,
+      "count": 224,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 403800,
+      "byteOffset": 303024,
       "componentType": 5126,
-      "count": 651,
+      "count": 224,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 148112,
+      "byteOffset": 100520,
       "componentType": 5123,
-      "count": 144,
+      "count": 1632,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
     {
       "bufferView": 1,
-      "byteOffset": 613512,
+      "byteOffset": 457224,
       "componentType": 5126,
-      "count": 96,
+      "count": 586,
       "max": [
-        0.09781729,
-        -5.21540642E-08,
-        0.101124309
+        0.169348165,
+        0.9787784,
+        0.424596965
       ],
       "min": [
-        -0.09746551,
-        -0.220000058,
-        -0.0941584855
+        -0.216314718,
+        0.7299999,
+        -0.327058464
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 614664,
+      "byteOffset": 464256,
       "componentType": 5126,
-      "count": 96,
+      "count": 586,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 2,
-      "byteOffset": 409008,
+      "byteOffset": 304816,
       "componentType": 5126,
-      "count": 96,
+      "count": 586,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 409776,
+      "byteOffset": 309504,
       "componentType": 5126,
-      "count": 96,
+      "count": 586,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 148400,
+      "byteOffset": 103784,
       "componentType": 5123,
       "count": 36,
       "type": "SCALAR",
@@ -3456,25 +3455,25 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 615816,
+      "byteOffset": 471288,
       "componentType": 5126,
       "count": 24,
       "max": [
-        0.2,
-        0.005,
-        0.35
+        0.475894034,
+        0.729999959,
+        0.113568366
       ],
       "min": [
-        -0.2,
-        0.0,
-        -0.35
+        -0.124105975,
+        0.7,
+        -1.88643169
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 616104,
+      "byteOffset": 471576,
       "componentType": 5126,
       "count": 24,
       "type": "VEC3",
@@ -3482,7 +3481,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 410544,
+      "byteOffset": 314192,
       "componentType": 5126,
       "count": 24,
       "type": "VEC2",
@@ -3490,9 +3489,59 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 410736,
+      "byteOffset": 314384,
       "componentType": 5126,
       "count": 24,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 103856,
+      "componentType": 5123,
+      "count": 1794,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 471864,
+      "componentType": 5126,
+      "count": 907,
+      "max": [
+        0.297976077,
+        0.9678164,
+        -0.214843214
+      ],
+      "min": [
+        0.06442529,
+        0.7299999,
+        -0.3320585
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 482748,
+      "componentType": 5126,
+      "count": 907,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 314576,
+      "componentType": 5126,
+      "count": 907,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 321832,
+      "componentType": 5126,
+      "count": 907,
       "type": "VEC2",
       "name": "accessorUV2s"
     }
@@ -3500,20 +3549,20 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 148472,
+      "byteLength": 107444,
       "name": "bufferViewScalar"
     },
     {
       "buffer": 0,
-      "byteOffset": 148472,
-      "byteLength": 616392,
+      "byteOffset": 107444,
+      "byteLength": 493632,
       "byteStride": 12,
       "name": "bufferViewFloatVec3"
     },
     {
       "buffer": 0,
-      "byteOffset": 764864,
-      "byteLength": 410928,
+      "byteOffset": 601076,
+      "byteLength": 329088,
       "byteStride": 8,
       "name": "bufferViewFloatVec2"
     }
@@ -3521,7 +3570,7 @@
   "buffers": [
     {
       "uri": "base_baking.bin",
-      "byteLength": 1175792
+      "byteLength": 930164
     }
   ],
   "materials": [
@@ -3647,7 +3696,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -3799,7 +3848,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
+          "name": "Lightmap-3_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4263,7 +4312,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4786,7 +4835,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-1_comp_light.jpg",
+          "name": "Lightmap-2_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4862,7 +4911,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-1_comp_light.jpg",
+          "name": "Lightmap-3_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -5551,7 +5600,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-2_comp_light.jpg",
+          "name": "Lightmap-3_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -5756,14 +5805,17 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 40
-        },
+        "baseColorFactor": [
+          0.7019608,
+          0.7019608,
+          0.7019608,
+          1.0
+        ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.9
+        "roughnessFactor": 0.4
       },
       "doubleSided": true,
-      "name": "Material #5624",
+      "name": "Material #5735",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -5772,7 +5824,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-1_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -5805,13 +5857,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 41
+          "index": 40
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.9
       },
       "doubleSided": true,
-      "name": "Material #5625",
+      "name": "Material #5733",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -5820,7 +5872,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-1_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -5862,7 +5914,7 @@
         "roughnessFactor": 0.4
       },
       "doubleSided": true,
-      "name": "Material #5626",
+      "name": "Material #5737",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -5871,7 +5923,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-1_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -5904,16 +5956,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5,
-          0.5,
-          0.5,
+          0.827451,
+          0.827451,
+          0.827451,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.2
       },
       "doubleSided": true,
-      "name": "Material #5627",
+      "name": "Material #5734",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -5922,7 +5974,58 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-3_comp_light.jpg",
+          "name": "Lightmap-1_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0392156877,
+          0.0392156877,
+          0.0392156877,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.2
+      },
+      "doubleSided": true,
+      "name": "Material #5738",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-1_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -6157,12 +6260,7 @@
     {
       "sampler": 0,
       "source": 14,
-      "name": "fabric_gris_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 15,
-      "name": "wood_spirit_albedo.jpg"
+      "name": "wood_spirit_albedo2.jpg"
     }
   ],
   "images": [
@@ -6209,10 +6307,7 @@
       "uri": "stripes_albedo.jpg"
     },
     {
-      "uri": "fabric_gris_basecolor.jpg"
-    },
-    {
-      "uri": "wood_spirit_albedo.jpg"
+      "uri": "wood_spirit_albedo2.jpg"
     }
   ],
   "samplers": [
