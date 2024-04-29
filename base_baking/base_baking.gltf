@@ -823,22 +823,22 @@
     {
       "mesh": 26,
       "translation": [
-        -1.15412569,
-        -0.6942976,
-        -1.91088593
+        -0.4808459,
+        -0.6942987,
+        -1.30014634
       ],
       "rotation": [
-        -0.885471642,
+        -0.9732372,
         0.0,
-        -0.464693427,
+        0.229802951,
         0.0
       ],
       "scale": [
-        0.99999994,
+        1.0,
         -1.0,
-        0.99999994
+        1.0
       ],
-      "name": "furniture_common_area_small"
+      "name": "furniture_common_area"
     }
   ],
   "meshes": [
@@ -1375,7 +1375,7 @@
           "material": 35
         }
       ],
-      "name": "furniture_common_area_small"
+      "name": "furniture_common_area"
     }
   ],
   "accessors": [
@@ -3280,7 +3280,7 @@
       "bufferView": 0,
       "byteOffset": 94532,
       "componentType": 5123,
-      "count": 24480,
+      "count": 32640,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -3288,25 +3288,25 @@
       "bufferView": 1,
       "byteOffset": 432096,
       "componentType": 5126,
-      "count": 7580,
+      "count": 10228,
       "max": [
-        1.3213464,
+        2.118941,
         0.805525064,
-        1.44258285
+        1.31543672
       ],
       "min": [
-        -0.530685,
+        -0.4797628,
         0.427226365,
-        -0.31034115
+        -0.7695834
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 523056,
+      "byteOffset": 554832,
       "componentType": 5126,
-      "count": 7580,
+      "count": 10228,
       "type": "VEC3",
       "name": "accessorNormals"
     },
@@ -3314,65 +3314,65 @@
       "bufferView": 2,
       "byteOffset": 288064,
       "componentType": 5126,
-      "count": 7580,
+      "count": 10228,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 348704,
+      "byteOffset": 369888,
       "componentType": 5126,
-      "count": 7580,
+      "count": 10228,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 143492,
+      "byteOffset": 159812,
       "componentType": 5123,
-      "count": 4440,
+      "count": 4500,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
     {
       "bufferView": 1,
-      "byteOffset": 614016,
+      "byteOffset": 677568,
       "componentType": 5126,
-      "count": 2364,
+      "count": 2016,
       "max": [
-        1.29398584,
-        0.74,
-        1.47462583
+        2.1548686,
+        0.78,
+        1.35202515
       ],
       "min": [
-        -0.493812561,
+        -0.516922534,
         0.0,
-        -0.331764936
+        -0.806081355
       ],
       "type": "VEC3",
       "name": "accessorPositions"
     },
     {
       "bufferView": 1,
-      "byteOffset": 642384,
+      "byteOffset": 701760,
       "componentType": 5126,
-      "count": 2364,
+      "count": 2016,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 2,
-      "byteOffset": 409344,
+      "byteOffset": 451712,
       "componentType": 5126,
-      "count": 2364,
+      "count": 2016,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 428256,
+      "byteOffset": 467840,
       "componentType": 5126,
-      "count": 2364,
+      "count": 2016,
       "type": "VEC2",
       "name": "accessorUV2s"
     }
@@ -3380,20 +3380,20 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 152372,
+      "byteLength": 168812,
       "name": "bufferViewScalar"
     },
     {
       "buffer": 0,
-      "byteOffset": 152372,
-      "byteLength": 670752,
+      "byteOffset": 168812,
+      "byteLength": 725952,
       "byteStride": 12,
       "name": "bufferViewFloatVec3"
     },
     {
       "buffer": 0,
-      "byteOffset": 823124,
-      "byteLength": 447168,
+      "byteOffset": 894764,
+      "byteLength": 483968,
       "byteStride": 8,
       "name": "bufferViewFloatVec2"
     }
@@ -3401,7 +3401,7 @@
   "buffers": [
     {
       "uri": "base_baking.bin",
-      "byteLength": 1270292
+      "byteLength": 1378732
     }
   ],
   "materials": [
@@ -4143,7 +4143,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-1_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
