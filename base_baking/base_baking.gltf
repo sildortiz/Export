@@ -5940,7 +5940,7 @@
     {
       "sampler": 0,
       "source": 15,
-      "name": "wood_spirit_albedo.jpg"
+      "name": "oak_natural_albedo.jpg"
     }
   ],
   "images": [
@@ -5990,7 +5990,7 @@
       "uri": "fabric_gris_basecolor.jpg"
     },
     {
-      "uri": "wood_spirit_albedo.jpg"
+      "uri": "oak_natural_albedo.jpg"
     }
   ],
   "samplers": [
