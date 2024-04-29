@@ -6088,7 +6088,7 @@
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.2
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "Material #5734",
@@ -6234,8 +6234,8 @@
           0.697841763,
           1.0
         ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.9
+        "metallicFactor": 0.2,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "Material #6066",
