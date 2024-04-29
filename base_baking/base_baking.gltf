@@ -823,9 +823,15 @@
     {
       "mesh": 26,
       "translation": [
-        0.5917759,
+        -0.008062959,
         -0.694297433,
-        -1.20499825
+        -0.494281054
+      ],
+      "rotation": [
+        0.0,
+        -0.7071068,
+        0.0,
+        0.7071068
       ],
       "name": "furniture_kitchen"
     }
@@ -6222,11 +6228,17 @@
     },
     {
       "pbrMetallicRoughness": {
-        "roughnessFactor": 0.0
+        "baseColorFactor": [
+          0.697841763,
+          0.697841763,
+          0.697841763,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
       },
-      "alphaMode": "BLEND",
       "doubleSided": true,
-      "name": "Material #5954",
+      "name": "Material #6066",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
