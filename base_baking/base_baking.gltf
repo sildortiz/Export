@@ -823,15 +823,15 @@
     {
       "mesh": 26,
       "translation": [
-        0.941914856,
+        -0.6181818,
         -0.179299235,
-        -2.44483662
+        -2.6006155
       ],
       "rotation": [
         0.0,
-        8.742278E-08,
+        0.7071069,
         0.0,
-        1.0
+        0.70710665
       ],
       "name": "furniture_CEO"
     }
@@ -7026,7 +7026,7 @@
           "index": 43
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.3
+        "roughnessFactor": 0.45
       },
       "doubleSided": true,
       "name": "Material #44",
@@ -7172,12 +7172,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.956834555,
-          0.956834555,
-          0.956834555,
+          0.4862745,
+          0.4862745,
+          0.4862745,
           1.0
         ],
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
       },
       "doubleSided": true,
       "name": "Material #69",
