@@ -1491,6 +1491,17 @@
           },
           "indices": 262,
           "material": 46
+        },
+        {
+          "attributes": {
+            "POSITION": 269,
+            "NORMAL": 270,
+            "COLOR_0": 271,
+            "TEXCOORD_0": 272,
+            "TEXCOORD_1": 273
+          },
+          "indices": 268,
+          "material": 47
         }
       ],
       "name": "furniture_CEO_small"
@@ -3398,7 +3409,7 @@
       "bufferView": 0,
       "byteOffset": 94532,
       "componentType": 5123,
-      "count": 660,
+      "count": 444,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -3406,9 +3417,9 @@
       "bufferView": 1,
       "byteOffset": 433080,
       "componentType": 5126,
-      "count": 437,
+      "count": 293,
       "max": [
-        1.25000024,
+        1.25000012,
         0.255075336,
         -0.379999816
       ],
@@ -3422,16 +3433,16 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 438324,
+      "byteOffset": 436596,
       "componentType": 5126,
-      "count": 437,
+      "count": 293,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 437,
+      "count": 293,
       "type": "VEC4",
       "name": "accessorColors"
     },
@@ -3439,15 +3450,73 @@
       "bufferView": 2,
       "byteOffset": 288720,
       "componentType": 5126,
-      "count": 437,
+      "count": 293,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 292216,
+      "byteOffset": 291064,
       "componentType": 5126,
-      "count": 437,
+      "count": 293,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 95420,
+      "componentType": 5123,
+      "count": 216,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 440112,
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        1.25,
+        0.255075336,
+        -0.9903196
+      ],
+      "min": [
+        0.6499995,
+        0.24507533,
+        -1.83976042
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 441840,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4688,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC4",
+      "name": "accessorColors"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 293408,
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 294560,
+      "componentType": 5126,
+      "count": 144,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
@@ -6465,6 +6534,54 @@
           "index": 41
         },
         "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "doubleSided": true,
+      "name": "Material #8426",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-3_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 42
+        },
+        "metallicFactor": 0.0,
         "roughnessFactor": 0.45
       },
       "doubleSided": true,
@@ -6662,13 +6779,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 44
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
       },
       "normalTexture": {
-        "index": 42,
+        "index": 43,
         "scale": 0.1
       },
       "doubleSided": true,
@@ -7270,16 +7387,21 @@
     {
       "sampler": 0,
       "source": 15,
-      "name": "leather_brown.jpg"
+      "name": "piel_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 16,
-      "name": "vm_v1_020_wood_blend.jpg"
+      "name": "leather_brown.jpg"
     },
     {
       "sampler": 0,
       "source": 17,
+      "name": "vm_v1_020_wood_blend.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 18,
       "name": "vm_v1_020_wood_diffuse2.jpg"
     }
   ],
@@ -7328,6 +7450,9 @@
     },
     {
       "uri": "wood_spirit_albedo3.jpg"
+    },
+    {
+      "uri": "piel_basecolor.jpg"
     },
     {
       "uri": "leather_brown.jpg"
