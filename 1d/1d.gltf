@@ -265,7 +265,6 @@
       ],
       "name": "ceiling_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -278,7 +277,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -296,7 +296,6 @@
       ],
       "name": "ceiling_02",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -309,7 +308,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -327,7 +327,6 @@
       ],
       "name": "ceiling_03",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -340,7 +339,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -358,7 +358,6 @@
       ],
       "name": "ceiling_04",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -371,7 +370,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -389,7 +389,6 @@
       ],
       "name": "door_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -402,7 +401,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -420,7 +420,6 @@
       ],
       "name": "ground_hall_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -433,7 +432,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -451,7 +451,6 @@
       ],
       "name": "ground_living_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -464,7 +463,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -482,7 +482,6 @@
       ],
       "name": "ground_office_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -495,7 +494,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -513,7 +513,6 @@
       ],
       "name": "ground_office_02",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -526,7 +525,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -544,7 +544,6 @@
       ],
       "name": "ground_office_03",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -557,7 +556,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -575,7 +575,6 @@
       ],
       "name": "interior_door_frame_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -588,7 +587,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -606,7 +606,6 @@
       ],
       "name": "interior_door_frame_02",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -619,7 +618,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -637,7 +637,6 @@
       ],
       "name": "interior_door_frame_03",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -650,7 +649,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -668,7 +668,6 @@
       ],
       "name": "interior_door_handle_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -681,7 +680,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -699,7 +699,6 @@
       ],
       "name": "interior_door_handle_02",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -712,7 +711,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -730,7 +730,6 @@
       ],
       "name": "interior_door_handle_03",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -743,7 +742,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -761,7 +761,6 @@
       ],
       "name": "interior_door_panel_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -774,7 +773,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -792,7 +792,6 @@
       ],
       "name": "interior_door_panel_02",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -805,7 +804,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -823,7 +823,6 @@
       ],
       "name": "interior_door_panel_03",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -836,7 +835,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -854,7 +854,6 @@
       ],
       "name": "masonry_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -867,7 +866,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -921,7 +921,6 @@
       ],
       "name": "rail_double_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -934,7 +933,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -967,7 +967,6 @@
       ],
       "name": "windows_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -980,7 +979,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1003,7 +1003,7 @@
       ],
       "name": "ceiling_ac_005",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1017,7 +1017,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "name": "ceiling_ac_007",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1054,7 +1054,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "name": "ceiling_ac_008",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1091,7 +1091,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1114,7 +1114,7 @@
       ],
       "name": "ceiling_ac_010",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1128,7 +1128,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "name": "ceiling_ac_011",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1165,7 +1165,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1327,7 +1327,6 @@
       ],
       "name": "furniture_deco_table003",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1340,7 +1339,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1358,7 +1358,6 @@
       ],
       "name": "furniture_frame_c005",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1371,7 +1370,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1394,7 +1394,6 @@
       ],
       "name": "furniture_frame_d009",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1407,7 +1406,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1425,7 +1425,6 @@
       ],
       "name": "furniture_frame_h004",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1438,7 +1437,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1456,7 +1456,6 @@
       ],
       "name": "shelf_wall_01",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1469,7 +1468,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1487,7 +1487,6 @@
       ],
       "name": "shelf_wall_002",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1500,7 +1499,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1669,7 +1669,6 @@
       ],
       "name": "furniture_storage023",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1682,7 +1681,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1700,7 +1700,6 @@
       ],
       "name": "furniture_storage024",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1713,7 +1712,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1805,7 +1805,6 @@
       ],
       "name": "furniture_shelf_small012",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1818,7 +1817,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1865,6 +1865,7 @@
       ],
       "name": "furniture_frame_f006",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1877,8 +1878,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1896,6 +1896,7 @@
       ],
       "name": "furniture_frame_g007",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1908,8 +1909,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1999,7 +1999,6 @@
       ],
       "name": "furniture_frame_h006",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2012,7 +2011,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -14623,7 +14623,7 @@
       "bufferView": 0,
       "byteOffset": 417368,
       "componentType": 5123,
-      "count": 504,
+      "count": 684,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -14631,9 +14631,59 @@
       "bufferView": 1,
       "byteOffset": 2256552,
       "componentType": 5126,
-      "count": 336,
+      "count": 456,
       "max": [
         0.190000027,
+        2.22,
+        1.0862354
+      ],
+      "min": [
+        -0.210000008,
+        -1.03376806E-07,
+        -1.09123552
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2262024,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1503856,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1507504,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 418736,
+      "componentType": 5123,
+      "count": 468,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2267496,
+      "componentType": 5126,
+      "count": 312,
+      "max": [
+        -0.19,
         2.18499827,
         1.051206
       ],
@@ -14647,31 +14697,31 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2260584,
+      "byteOffset": 2271240,
       "componentType": 5126,
-      "count": 336,
+      "count": 312,
       "type": "VEC3",
       "name": "accessorNormals"
     },
     {
       "bufferView": 2,
-      "byteOffset": 1503856,
+      "byteOffset": 1511152,
       "componentType": 5126,
-      "count": 336,
+      "count": 312,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 1506544,
+      "byteOffset": 1513648,
       "componentType": 5126,
-      "count": 336,
+      "count": 312,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 418376,
+      "byteOffset": 419672,
       "componentType": 5123,
       "count": 144,
       "type": "SCALAR",
@@ -14679,7 +14729,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2264616,
+      "byteOffset": 2274984,
       "componentType": 5126,
       "count": 96,
       "max": [
@@ -14697,7 +14747,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2265768,
+      "byteOffset": 2276136,
       "componentType": 5126,
       "count": 96,
       "type": "VEC3",
@@ -14705,7 +14755,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1509232,
+      "byteOffset": 1516144,
       "componentType": 5126,
       "count": 96,
       "type": "VEC2",
@@ -14713,59 +14763,9 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1510000,
+      "byteOffset": 1516912,
       "componentType": 5126,
       "count": 96,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 418664,
-      "componentType": 5123,
-      "count": 648,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2266920,
-      "componentType": 5126,
-      "count": 432,
-      "max": [
-        0.190000027,
-        2.22,
-        1.0862354
-      ],
-      "min": [
-        -0.210000008,
-        -1.03376806E-07,
-        -1.09123552
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2272104,
-      "componentType": 5126,
-      "count": 432,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1510768,
-      "componentType": 5126,
-      "count": 432,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1514224,
-      "componentType": 5126,
-      "count": 432,
       "type": "VEC2",
       "name": "accessorUV2s"
     }
@@ -24756,112 +24756,110 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.5,
-          0.5,
-          0.5,
-          1.0
-        ],
+        "baseColorTexture": {
+          "index": 20
+        },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
       },
       "doubleSided": true,
-      "name": "wood",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
+      "name": "Material #4"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 65
-        },
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "dark_wood",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 35
+          "index": 20
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.4
       },
       "doubleSided": true,
-      "name": "Material #4"
+      "name": "Material #36860",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #36861",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
     }
   ],
   "textures": [
@@ -25189,11 +25187,6 @@
       "sampler": 0,
       "source": 31,
       "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 32,
-      "name": "wood_spirit_dark.jpg"
     }
   ],
   "images": [
@@ -25292,9 +25285,6 @@
     },
     {
       "uri": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "uri": "wood_spirit_dark.jpg"
     }
   ],
   "samplers": [
